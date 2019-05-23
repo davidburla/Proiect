@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1547817351 source:c:\users\burla\desktop\resurse_umane\main.cpp
+	<iostream>
+	"Persoana.h"
+	"Angajat.h"
+	"Salariu.h"
+	"Functie.h"
+	"Departament.h"
+	"data.h"
+	"listai.h"
+	"Exceptie.h"
+	"functii.h"
+	<conio.h>
+	<cstdlib>
+
+1547770843 source:c:\users\burla\desktop\resurse_umane\persoana.cpp
+	"Persoana.h"
+	"Exceptie.h"
+
+1547770656 c:\users\burla\desktop\resurse_umane\persoana.h
+	<string.h>
+	<iostream>
+	<fstream>
+	"data_c.h"
+
+1547772050 source:c:\users\burla\desktop\resurse_umane\salariu.cpp
+	"Salariu.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1547771898 c:\users\burla\desktop\resurse_umane\salariu.h
+	<iostream>
+
+1547764202 source:c:\users\burla\desktop\resurse_umane\data_c.cpp
+	"data_c.h"
+	<iostream>
+	<stdio.h>
+	<string>
+	<stdlib.h>
+
+1547735630 c:\users\burla\desktop\resurse_umane\data_c.h
+	<string>
+	<map>
+
+1547755609 source:c:\users\burla\desktop\resurse_umane\functie.cpp
+	"Functie.h"
+	<string.h>
+	<iostream>
+
+1547755625 c:\users\burla\desktop\resurse_umane\functie.h
+	<iostream>
+
+1547765449 source:c:\users\burla\desktop\resurse_umane\departament.cpp
+	"Departament.h"
+	<string.h>
+	<iostream>
+
+1547756610 c:\users\burla\desktop\resurse_umane\departament.h
+	<iostream>
+
+1547808497 source:c:\users\burla\desktop\resurse_umane\angajat.cpp
+	"Angajat.h"
+	<string.h>
+	<stdlib.h>
+	"Exceptie.h"
+
+1554215641 c:\users\burla\desktop\resurse_umane\angajat.h
+	"Persoana.h"
+	"Salariu.h"
+	"Functie.h"
+	"Departament.h"
+	<iostream>
+	"Exceptie.h"
+
+1547772011 source:c:\users\burla\desktop\resurse_umane\listai.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listai.h"
+	"Angajat.h"
+	"Persoana.h"
+	"Salariu.h"
+	"Functie.h"
+	"Departament.h"
+	"Exceptie.h"
+	"data_c.h"
+
+1554216062 c:\users\burla\desktop\resurse_umane\listai.h
+	"data.h"
+
+1547654203 c:\users\burla\desktop\resurse_umane\data.h
+	"Angajat.h"
+
+1547663536 source:c:\users\burla\desktop\resurse_umane\exceptie.cpp
+	"Exceptie.h"
+
+1547663431 c:\users\burla\desktop\resurse_umane\exceptie.h
+	<iostream>
+	<string.h>
+
+1547772477 source:c:\users\burla\desktop\resurse_umane\functii.cpp
+	<iostream>
+	"functii.h"
+
+1547756697 c:\users\burla\desktop\resurse_umane\functii.h
+	<string.h>
+	<windows.h>
+

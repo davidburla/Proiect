@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Resurse_umane" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Resurse_umane" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Resurse_umane" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ANGAJATI.txt" />
+		<Unit filename="Angajat.cpp" />
+		<Unit filename="Angajat.h" />
+		<Unit filename="Departament.cpp" />
+		<Unit filename="Departament.h" />
+		<Unit filename="Exceptie.cpp" />
+		<Unit filename="Exceptie.h" />
+		<Unit filename="Functie.cpp" />
+		<Unit filename="Functie.h" />
+		<Unit filename="Persoana.cpp" />
+		<Unit filename="Persoana.h" />
+		<Unit filename="Resurse_umane.depend" />
+		<Unit filename="Salariu.cpp" />
+		<Unit filename="Salariu.h" />
+		<Unit filename="data.h" />
+		<Unit filename="data_angajati.txt" />
+		<Unit filename="data_c.cpp" />
+		<Unit filename="data_c.h" />
+		<Unit filename="functii.cpp" />
+		<Unit filename="functii.h" />
+		<Unit filename="listai.cpp" />
+		<Unit filename="listai.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

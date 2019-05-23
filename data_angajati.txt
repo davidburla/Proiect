@@ -1,0 +1,12 @@
+10
+Novac Catalin 1980820335453 contabil 2345 324 contabilitate
+Burla David 1981018330561 director 3900 1100 secretariat
+Cirlan Ancuta 2980725330895 secretar 3000 345 resurse_umane
+Copilu Denis-Lucian 1990323330564 angajat 2342 123 angajati
+Iacob Ciprian 1981203330453 contabil 2365 345 administrare
+Policiuc Ruth-Cezara 2981103330543 director 2441 0 administrare
+Buliga Simona 2981029330567 secretar 3453 190 angajati
+Cosovan David 1960724338975 angajat 3320 3 resurse_umane
+Pandelea Naomi 2990416339056 angajat 2090 0 contabilitate
+Grigoras Emanuel-Viorel 1980915330234 angajat 3450 23 angajati
+
