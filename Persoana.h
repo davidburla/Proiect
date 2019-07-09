@@ -28,6 +28,10 @@ class Persoana: public Data
     private:
 
 
+
+
+
+
 };
 
 #endif // PERSOANA_H

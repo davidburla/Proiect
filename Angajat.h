@@ -17,9 +17,9 @@ class Angajat: public Persoana, public Salariu, public Functie, public Departame
             ID = ++n_ID;
         }
         Angajat();
+        virtual ~Angajat();
 
         char* Print();
-        virtual ~Angajat();
         friend istream& operator>>(istream&c, Angajat &a);
         friend ostream& operator<<(ostream&c, Angajat &a);
         void SalvareDateFisier(Angajat &a);
@@ -30,6 +30,15 @@ class Angajat: public Persoana, public Salariu, public Functie, public Departame
         int ID;
         static int  n_ID;
 };
+
+
+
+
+
+
+
+
+
 
 
 #endif // ANGAJAT_H

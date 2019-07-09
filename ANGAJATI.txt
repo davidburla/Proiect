@@ -1,10 +1,1 @@
 1 Novac Catalin contabil 2669 contabilitate 
-2 Burla David director 5000 secretariat 
-3 Cirlan Ancuta secretar 3345 resurse_umane 
-4 Copilu Denis-Lucian angajat 2465 angajati 
-5 Iacob Ciprian contabil 2710 administrare 
-6 Policiuc Ruth-Cezara director 2441 administrare 
-7 Buliga Simona secretar 3643 angajati 
-8 Cosovan David angajat 3323 resurse_umane 
-9 Pandelea Naomi angajat 2090 contabilitate 
-10 Grigoras Emanuel-Viorel angajat 3473 angajati 

@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "listai.h"
+
 #include "Angajat.h"
 #include "Persoana.h"
 #include "Salariu.h"
@@ -9,6 +9,7 @@
 #include "Departament.h"
 #include "Exceptie.h"
 #include "data_c.h"
+#include "listai.h"
 struct element {
     DATA info;
     struct element *urm;
@@ -265,6 +266,7 @@ void SalariuPersoane(LISTA l)
 LISTA CitireFisier(char* NumeFisier, LISTA l)
 {
     ifstream f(NumeFisier);
+
     char _nume[20];
     char _prenu[20];
     char _cnp[13], c[20];
